@@ -1,0 +1,23 @@
+{
+  "name": "terra-ui",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "sam.bao@cerner.com"
+  ],
+  "description": "Terra is a UI framework geared toward health care applications.",
+  "keywords": [
+    "terra",
+    "terra-ui",
+    "healthcare"
+  ],
+  "license": "Apache License v2.0",
+  "homepage": "www.terra-ui.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

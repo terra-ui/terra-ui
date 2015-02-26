@@ -1,0 +1,16 @@
+{
+  "name": "terra-ui",
+  "version": "0.0.0",
+  "description": "Terra is a UI framework geared toward health care applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terra",
+    "terra-ui",
+    "healthcare"
+  ],
+  "author": "Cerner Innovation, Inc",
+  "license": "Apache License v2.0"
+}
